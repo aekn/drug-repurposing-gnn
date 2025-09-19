@@ -3,11 +3,11 @@
 This is a companion reading list for the project. It collects resources I've found useful along the way
 and mainly serves as a personal reference.
 
-Resources are grouped into categories for convenience, but the order within each category isn't intended
-to imply any priority or sequence. This list is not meant to be comprehensive, but hopefully still helpful.
+Resources are grouped into categories for convenience, but the order within categories isn't intended
+to imply any priority or sequence.
 
 ## Before anything else...
-#### 1. A crash course on ML
+#### 1. A high-level crash course on ML
 - **[<u>Machine Learning Crash Course</u>](https://developers.google.com/machine-learning/crash-course)**
 - Authors: Google For Developers
 
@@ -24,10 +24,10 @@ to imply any priority or sequence. This list is not meant to be comprehensive, b
 - **[<u>Understanding Convolutions on Graphs</u>](https://distill.pub/2021/understanding-gnns/)**
 - Authors: Ameya Daigavane, Balaraman Ravindran, Gaurav Aggarwal
 #### 4. *The* Deep Learning Book
-- [Deep Learning](https://www.deeplearningbook.org/)
+- **[<u>Deep Learning</u>](https://www.deeplearningbook.org/)**
 - Authors: Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
-## Drug Repurposing
+## Drug Repurposing & Discovery
 #### 1. Lay of the land
 - **[<u>Repurposing – second life for drugs</u>](https://doi.org/10.3897/pharmacia.69.e72548)**
 - Authors: Porkodi Ayyar, Umamaheswari Subramanian
@@ -43,5 +43,8 @@ to imply any priority or sequence. This list is not meant to be comprehensive, b
 #### 4. Drug repurposing as a link prediction problem
 - **[<u>A computational approach to drug repurposing using graph neural networks</u>](https://www.sciencedirect.com/science/article/pii/S001048252200717X?via%3Dihub)**
 - Authors: Siddhant Doshi, Sundeep Prabhakar Chepuri
+#### 5. Explainable drug response prediction
+- **[<u>Drug discovery and mechanism prediction with explainable graph neural networks</u>](https://doi.org/10.1038/s41598-024-83090-3)**
+- Authors: Conghao Wang, Gaurav Asok Kumar, Jagath C. Rajapakse
 
 ## Not Yet Organized
